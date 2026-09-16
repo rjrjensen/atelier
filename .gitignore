@@ -1,0 +1,4 @@
+# Raw Claude Code session logs: contain full system prompts, connector IDs,
+# and account details. Keep local unless the repo is private.
+chats/*.raw.jsonl
+.DS_Store
